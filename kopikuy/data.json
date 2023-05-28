@@ -1,0 +1,48 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60-vfdM7DA9oCr8tMikhywz-Y4SV5uVx4jw&usqp=CAU",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcf.shopee.co.id%2Ffile%2Fdbbfccaa21d3865b096132b5d5ac0fd2&tbnid=6c3mc9mwh8dQyM&vet=12ahUKEwiIrPG7wO7-AhXUAbcAHaZhCJsQMygVegUIARDsAQ..i&imgrefurl=https%3A%2F%2Fshopee.co.id%2FKopi-Robusta-1Kg-Pilih-Roastbean-atau-Bubuk-i.314684674.8700851063&docid=YOkwccBNb_r-LM&w=800&h=800&q=kopi%20robusta&ved=2ahUKEwiIrPG7wO7-AhXUAbcAHaZhCJsQMygVegUIARDsAQ"
+        }
+    ]
+}
